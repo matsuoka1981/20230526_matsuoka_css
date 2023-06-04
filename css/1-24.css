@@ -1,0 +1,48 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    height: 8.87vh;
+}
+
+
+.header__ttl {
+    color: #00008b;
+    font-size: 1.31vw;
+    margin-top: auto;
+    margin-left: 2.08vw;
+    margin-bottom: auto;
+}
+
+
+.header__nav {
+    font-size: 1.18vw;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+.header__nav-list {
+    margin-right: 2.08vw;
+}
+
+
+.main__img {
+    margin-top: 12vh;
+    margin-left: 50vw;
+    width: 50vw;
+    height: 60.8vh;
+}
+
+
+.main__p {
+    font-size: 4.7vw;
+    margin-top: -22vh;
+}
+
+
+.main__div--blue {
+    background-color: #00008b;
+    width: 75vw;
+    height: 25vh;
+    margin-bottom: 4.94vh;
+}
