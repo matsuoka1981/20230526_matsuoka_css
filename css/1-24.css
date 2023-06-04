@@ -25,6 +25,10 @@
     margin-right: 2.08vw;
 }
 
+.header__nav-list-a{
+    text-decoration: none;
+    color: #00008b;
+}
 
 .main__img {
     margin-top: 12vh;
